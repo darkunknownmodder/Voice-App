@@ -1,0 +1,7 @@
+{
+  "name": "ProfX - Physics Voice AI",
+  "description": "An interactive, bilingual Physics Specialist voice agent powered by Gemini 2.5. Engage in real-time conversations about mechanics, quantum physics, and more in English or Bengali.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
